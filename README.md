@@ -12,8 +12,6 @@ On one hand, this experience is particular to computers and something that no or
 
 On the other hand, ideas change in this same way.  Consider a theological idea like G-d or the soul or a scientific idea like a rainbow or planetary motion. 
 
-The idea of an automated system for managing versions of a thing is itself a thing which changes, version by version, through time.
-
-Cvs, mercurial, darcs and now git, the king of them all, may be the greatest contribution of the world of computer programmers to the larger world. 
+My hunch is, and has been for years, that the version control systems which have had their followings and their innovations, namely cvs, mercurial, darcs and now, the king of all of them, git is the greatest contribution from the world of computer programmers to the larger world. 
 
 Github is a new way to be social and also a new answer to the old question, "What is a thing?"
